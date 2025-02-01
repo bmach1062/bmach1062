@@ -11,8 +11,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | File System Monitoring and Integrity Checking | <a href="https://google.com">Detection Lab</a>|
 | Python Scripting and Automation               | <a href="https://google.com">Detection Lab</a>|
-| Compliance and Regulatory Assessment          | SOC Automation Lab|
-| Risk Assessment and Mitigation Planning       | SOC Automation Lab|
 
 ## Tools
 ### Scripting & Automation
