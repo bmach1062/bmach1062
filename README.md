@@ -9,8 +9,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| File System Monitoring and Integrity Checking | <a href="https://google.com">Detection Lab</a>|
-| Python Scripting and Automation               | <a href="https://google.com">Detection Lab</a>|
+| File System Monitoring and Integrity Checking | <a href="https://google.com">File Monitoring System</a>|
+| Python Scripting and Automation               | <a href="https://google.com">File Monitoring System</a>|
 
 ## Tools
 ### Scripting & Automation
