@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | File System Monitoring and Integrity Checking | [File Monitoring System](https://github.com/bmach1062/File-Monitoring-System)|
 | Python Scripting and Automation               | [File Monitoring System](https://github.com/bmach1062/File-Monitoring-System)|
-| Log Analysis with Splunk                      | [Splunk Home Lab](https://github.com/bmach1062/Splunk-Home-Lab.git)|
+| Log Analysis with Splunk (in progress)                     | [Splunk Home Lab](https://github.com/bmach1062/Splunk-Home-Lab.git)|
 
 ## Tools
 ### Scripting & Automation
